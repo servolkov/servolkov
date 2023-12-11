@@ -1,0 +1,216 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Sergei Volkov
+title: Software Engineer
+email: wolfserik111@gmail.com
+website: www.github.com/sproogen/resume-theme
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+# github_username:  sproogen
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello! I'm a Software Engineer with expertise in Quality Assurance, automation, CI/CD, and some DevOps practices. My diverse experience spans various project types, including web systems, desktop applications, system software such as binary translators and some exposure to the field of crypto.
+
+  In addition to my technical adventures, I've played the role of Team Leader for a few years. I'm all about automation. I'm that person who believes in minimizing manual work. However, I also recognize the importance of manual tasks when necessary.
+  
+  I'm always ready to contribute to the success of innovative projects.
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: HUAWEI
+        link: huawei.com
+        # link_text: boringcompany.com
+        sub_title: Lead Software Engineer
+        caption: April 2020 - Present
+        quote: >
+          Work as an engineer with leadership responsibilities in the Infrastructure and Quality Assurance team. Application – binary translator.
+
+        description: | # this will include new lines to allow paragraphs
+            Job responsibilities:
+            - team management (5 people in the pick + students on internship)
+             - support and improvement of testing system (functional testing, performance
+            testing, test generator, pre- and post-commit testing), CI\CD processes
+            - quality assurance of the application, release management
+            - support and improvement infrastructure of development and testing.
+            
+            Achievements:
+            - daily runs of regression tests with detailed report to all responsible team members
+            - the number of regression tests has been increased several times
+            - refactored old testing tools (python3) to user-friendly format (stable modules have
+            not been changed, only adapted to the new style)
+            - implemented a load balancing mechanism for agents in Jenkins
+            - deployed and configured KVM on local hosts for more efficient allocation of team
+            resources
+            - configured logging and monitoring systems (Logstash, Grafana)
+            - several stable versions of the application have been successfully released.
+            
+            Main stack of technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Gitlab
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: HUAWEI
+        link: huawei.com
+        # link_text: boringcompany.com
+        sub_title: Senior Software Engineer
+        caption: November 2019 - April 2020
+        quote: >
+          Work in the binary translator development team.
+        description: | # this will include new lines to allow paragraphs
+            Job responsibilities:
+            - development of a testing model and testing strategy
+            - increasing a number of regression tests
+            - participation in creation of the CI\CD system
+            - support and improvement of testing tools
+            
+            Achievements:
+            - standardized approach to functional testing, participation in the process of old
+            scripts rewriting to the new standard (Bash, Python3)
+            - deployed and configured СI from scratch (Jenkins), used conception of
+            Infrastructure as code (Jenkins pipelines, Jenkins shared lib)
+            - built infrastructure of launches using Docker.
+            
+            After current results I had been appointed Team Lead of the Infrastructure and Quality Assurance team.
+        
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Acronis
+        link: acronis.com
+        # link_text: boringcompany.com
+        sub_title: Software Developer in Test
+        caption: December 2017 - November 2019
+        quote: >
+          The first year I worked in the Automation QA team, then I developed automation within the development team, 1 person in assistants.
+        description: | # this will include new lines to allow paragraphs
+            Job responsibilities:
+            - development of testing framework (Python3)
+            - design and write new autotests, support old autotests (test frameworks: Pytest,
+            Unittest; type of tests: backend REST, Network, Installation, Upgrade)
+            - analysis test runs, search for weaknesses in the autotests architecture (difficult
+            logic of cases, poor logging and so on) to optimize of analysis process and test run time
+            - development and improvement of the test launch infrastructure (Jenkins, Docker,
+            Vmware, HyperV)
+
+        
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Agency of Economic Information PRIME
+        link: 1prime.ru
+        # link_text: boringcompany.com
+        sub_title: Senior QA Engineer
+        caption: September 2016 - January 2018
+        quote: >
+          Work as a QA Engineer with different teams inside same department. Each team had it’s own specializations, so testing was performed for different services in multitasking mode. Part-time work as a contractor since December 2017.
+        description: | # this will include new lines to allow paragraphs
+            Job responsibilities:
+            - functional testing of the following services:
+                 • ETL-procedures (MS SQL, Pentaho)
+                 • web-services (REST, SOAP, POSTMAN)
+                 • new features of website (Frontend)
+                 • Win-application (client for work and display economic information).
+            - bugs management, preparing test documentation (test cases, test plans)
+        
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Insentry
+        link:  insentry.io
+        # link_text: boringcompany.com
+        sub_title: QA Engineer
+        caption: July 2015 - September 2016
+        quote: >
+          Application – video surveillance with computer vision
+        description: | # this will include new lines to allow paragraphs
+            Job responsibilities:
+            - functional testing of the following components:
+                • client (Win-application)
+                • server (Win-service with Web-UI)
+                • archive (Win-service with Web-UI)
+                • analytics (computer vision application with distributed load)
+                • subsystem of voice communication (IP-telephony module integrated into the
+            client)
+            - integration testing of the current components
+            - writing test plans and test cases
+            - configuring stands with product for demonstrations.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: National Research University of Electronic Technology (MIET), Moscow
+        caption: 2010 - 2015
+        sub_title: Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
+
+  - title: Additional information
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
