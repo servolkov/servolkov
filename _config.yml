@@ -9,7 +9,6 @@ version: 2
 name: Sergei Volkov
 title: Software Engineer
 email: wolfserik111@gmail.com
-website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -29,15 +28,6 @@ darkmode: false
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -48,9 +38,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I'm a Software Engineer with expertise in Quality Assurance, automation, CI/CD, and some DevOps practices. My diverse experience spans various project types, including web systems, desktop applications, system software such as binary translators and some exposure to the field of crypto.
+  I'm a 30 year old Software Engineer with competence in Quality Assurance, automation, CI/CD, and some DevOps practices. My diverse experience spans various project types, including web systems, desktop applications, system software such as binary translators and some exposure to the field of crypto.
 
-  In addition to my technical adventures, I've played the role of Team Leader for a few years. I'm all about automation. I'm that person who believes in minimizing manual work. However, I also recognize the importance of manual tasks when necessary.
+  In addition to my technical experience, I've played the role of Team Leader for a few years. I'm all about automation. I'm that person who believes in minimizing manual work. However, I also recognize the importance of manual tasks when necessary.
   
   I'm always ready to contribute to the success of innovative projects.
 
@@ -59,15 +49,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: HUAWEI
         link: huawei.com
         # link_text: boringcompany.com
         sub_title: Lead Software Engineer
-        caption: April 2020 - Present
-        quote: >
-          Work as an engineer with leadership responsibilities in the Infrastructure and Quality Assurance team. Application – binary translator.
-
+        caption: April 2020 - Present<br>(4 years 1 month)
         description: | # this will include new lines to allow paragraphs
+            Work as an engineer with leadership responsibilities in the Infrastructure and Quality Assurance team. Application – binary translator.
+          
             Job responsibilities:
             - team management (5 people in the pick + students on internship)
              - support and improvement of testing system (functional testing, performance
@@ -87,19 +77,16 @@ content:
             - several stable versions of the application have been successfully released.
             
             Main stack of technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Gitlab
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+     
       - layout: left
+        border: weak
         title: HUAWEI
         link: huawei.com
-        # link_text: boringcompany.com
         sub_title: Senior Software Engineer
-        caption: November 2019 - April 2020
-        quote: >
-          Work in the binary translator development team.
+        caption: November 2019 - April 2020<br>(6 months)
         description: | # this will include new lines to allow paragraphs
+            Work in the binary translator development team.
+            
             Job responsibilities:
             - development of a testing model and testing strategy
             - increasing a number of regression tests
@@ -114,68 +101,56 @@ content:
             - built infrastructure of launches using Docker.
             
             After current results I had been appointed Team Lead of the Infrastructure and Quality Assurance team.
-        
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+
       - layout: left
+        border: weak
         title: Acronis
         link: acronis.com
         # link_text: boringcompany.com
         sub_title: Software Developer in Test
-        caption: December 2017 - November 2019
-        quote: >
-          The first year I worked in the Automation QA team, then I developed automation within the development team, 1 person in assistants.
+        caption: December 2017 - November 2019<br>(2 years)
         description: | # this will include new lines to allow paragraphs
+            The first year I worked in the Automation QA team, then I developed automation within the development team, 1 person as an assistant.
+            
             Job responsibilities:
             - development of testing framework (Python3)
             - design and write new autotests, support old autotests (test frameworks: Pytest,
             Unittest; type of tests: backend REST, Network, Installation, Upgrade)
             - analysis test runs, search for weaknesses in the autotests architecture (difficult
             logic of cases, poor logging and so on) to optimize of analysis process and test run time
-            - development and improvement of the test launch infrastructure (Jenkins, Docker,
-            Vmware, HyperV)
+            - development and improvement of the test launch infrastructure (Jenkins, Docker, Vmware, HyperV)
 
-        
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
+        border: weak
         title: Agency of Economic Information PRIME
         link: 1prime.ru
-        # link_text: boringcompany.com
         sub_title: Senior QA Engineer
-        caption: September 2016 - January 2018
-        quote: >
-          Work as a QA Engineer with different teams inside same department. Each team had it’s own specializations, so testing was performed for different services in multitasking mode. Part-time work as a contractor since December 2017.
+        caption: September 2016 - January 2018<br>(2 years 5 months)
         description: | # this will include new lines to allow paragraphs
+            Work as a QA Engineer with different teams inside same department. Each team had it’s own specializations, so testing was performed for different services in multitasking mode. Part-time work as a contractor since December 2017.
+            
             Job responsibilities:
             - functional testing of the following services:
-                 • ETL-procedures (MS SQL, Pentaho)
-                 • web-services (REST, SOAP, POSTMAN)
-                 • new features of website (Frontend)
-                 • Win-application (client for work and display economic information).
+                 - ETL-procedures (MS SQL, Pentaho)
+                 - web-services (REST, SOAP, POSTMAN)
+                 - new features of website (Frontend)
+                 - Win-application (client for work and display economic information).
             - bugs management, preparing test documentation (test cases, test plans)
         
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Insentry
-        link:  insentry.io
-        # link_text: boringcompany.com
+        link:  insentry.io/en
         sub_title: QA Engineer
-        caption: July 2015 - September 2016
-        quote: >
-          Application – video surveillance with computer vision
+        caption: July 2015 - September 2016<br>(1 year 3 months)
         description: | # this will include new lines to allow paragraphs
+            Application – video surveillance with computer vision.
             Job responsibilities:
             - functional testing of the following components:
-                • client (Win-application)
-                • server (Win-service with Web-UI)
-                • archive (Win-service with Web-UI)
-                • analytics (computer vision application with distributed load)
-                • subsystem of voice communication (IP-telephony module integrated into the
+                - client (Win-application)
+                - server (Win-service with Web-UI)
+                - archive (Win-service with Web-UI)
+                - analytics (computer vision application with distributed load)
+                - subsystem of voice communication (IP-telephony module integrated into the
             client)
             - integration testing of the current components
             - writing test plans and test cases
@@ -185,24 +160,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: National Research University of Electronic Technology (MIET), Moscow
+        link:  eng.miet.ru
         caption: 2010 - 2015
-        sub_title: Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
+        description: |
+            **National Research University of Electronic Technology (MIET), Moscow**
+            
+            Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
+
+  - title: Key skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Program languages:** Python, Groovy, Bash<br>
+      **Version control:** Git, SVN<br>
+      **Virtualization:** Docker, KVM, VMware, HyperV<br>
+      **Operation systems:** Linux, Windows<br>
+      **CI\CD:** Jenkins, Gitlab<br>
+      **Monitoring systems:** Grafana, ELK<br>
+      **Task management:** Jira, Bugzilla<br>
+      **Management skills:** task decomposition, process management, team management, task setting, mentoring<br>
+      **Speaking languages:** Russian — Native, English — B1-B2
+      
 
   - title: Additional information
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+      **Professional qualities:** strong analytical skills; work in a team; work in multitasking mode and plan working time; readiness to learn new things; non-conflict; without bad habits. 
+      
+      **Hobby:** traveling, football, spend time with my family.
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
