@@ -146,9 +146,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior QA Engineer
         caption: September 2016 - January 2018
-        quote: >
-          Work as a QA Engineer with different teams inside same department. Each team had it’s own specializations, so testing was performed for different services in multitasking mode. Part-time work as a contractor since December 2017.
         description: | # this will include new lines to allow paragraphs
+            Work as a QA Engineer with different teams inside same department. Each team had it’s own specializations, so testing was performed for different services in multitasking mode. Part-time work as a contractor since December 2017.
             Job responsibilities:
             - functional testing of the following services:
                  • ETL-procedures (MS SQL, Pentaho)
@@ -166,9 +165,8 @@ content:
         # link_text: boringcompany.com
         sub_title: QA Engineer
         caption: July 2015 - September 2016
-        quote: >
-          Application – video surveillance with computer vision
         description: | # this will include new lines to allow paragraphs
+            Application – video surveillance with computer vision.
             Job responsibilities:
             - functional testing of the following components:
                 • client (Win-application)
@@ -189,18 +187,21 @@ content:
         caption: 2010 - 2015
         sub_title: Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
 
+  - title: Key skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Languages: Russian — Native
+                 English — B1-B2
+                 
+      Skills keywords: Python Git Jenkins VMware Hyper-V SQL Docker REST API Linux KVM Testing Framework SVN Gitlab Jira CI\CD Groovy Bash Task decomposition Process management Team management Task setting Mentoring
+      
+
   - title: Additional information
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+      Professional qualities: strong analytical skills; work in team; work in multitasking mode and plan working time; readiness to learn new things; non-conflict; without bad habits. 
+      
+      Hobby: traveling, football, spend time with my family.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
