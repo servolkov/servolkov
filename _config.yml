@@ -169,12 +169,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-      link:  eng.miet.ru
-      caption: 2010 - 2015
-      description: |
-          **National Research University of Electronic Technology (MIET), Moscow**
+        link:  eng.miet.ru
+        caption: 2010 - 2015
+        description: |
+            **National Research University of Electronic Technology (MIET), Moscow**
             
-          Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
+            Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
 
   - title: Key skills
     layout: text
