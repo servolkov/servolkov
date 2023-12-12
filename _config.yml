@@ -84,8 +84,7 @@ content:
         title: HUAWEI
         link: huawei.com
         sub_title: Senior Software Engineer
-        caption: |
-            November 2019 - April 2020
+        caption: November 2019 - April 2020<br>(6 months)
         description: | # this will include new lines to allow paragraphs
             Work in the binary translator development team.
             
@@ -122,10 +121,8 @@ content:
             Unittest; type of tests: backend REST, Network, Installation, Upgrade)
             - analysis test runs, search for weaknesses in the autotests architecture (difficult
             logic of cases, poor logging and so on) to optimize of analysis process and test run time
-            - development and improvement of the test launch infrastructure (Jenkins, Docker,
-            Vmware, HyperV)
+            - development and improvement of the test launch infrastructure (Jenkins, Docker, Vmware, HyperV)
 
-        
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -133,7 +130,7 @@ content:
         title: Agency of Economic Information PRIME
         link: 1prime.ru
         sub_title: Senior QA Engineer
-        caption: September 2016 - January 2018 (2 years 5 months)
+        caption: September 2016 - January 2018<br>(2 years 5 months)
         description: | # this will include new lines to allow paragraphs
             Work as a QA Engineer with different teams inside same department. Each team had it’s own specializations, so testing was performed for different services in multitasking mode. Part-time work as a contractor since December 2017.
             
@@ -169,23 +166,25 @@ content:
             - configuring stands with product for demonstrations.
 
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
-        link:  eng.miet.ru
-        caption: 2010 - 2015
-        description: |
-            *National Research University of Electronic Technology (MIET), Moscow*
-            Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
+      - layout: left
+      link:  eng.miet.ru
+      caption: 2010 - 2015
+      description: |
+          **National Research University of Electronic Technology (MIET), Moscow**
+            
+          Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
 
   - title: Key skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Program languages:** Python, Groovy, Bash
-      **Version control:** Git, SVN
-      **Virtualization:** Docker, KVM, VMware, HyperV
-      **Operation systems:** Linux, Windows
-      **CI\CD:** Jenkins, Gitlab
-      **Monitoring systems:** Grafana, ELK
+      **Program languages:** Python, Groovy, Bash<br>
+      **Version control:** Git, SVN<br>
+      **Virtualization:** Docker, KVM, VMware, HyperV<br>
+      **Operation systems:** Linux, Windows<br>
+      **CI\CD:** Jenkins, Gitlab<br>
+      **Monitoring systems:** Grafana, ELK<br>
       **Task management:** Jira, Bugzilla
       
       **Management skills:** task decomposition, process management, team management, task setting, mentoring
