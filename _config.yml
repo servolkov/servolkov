@@ -85,8 +85,7 @@ content:
         link: huawei.com
         sub_title: Senior Software Engineer
         caption: |
-            November 2019 - April 2020 
-            (6 months)
+            November 2019 - April 2020
         description: | # this will include new lines to allow paragraphs
             Work in the binary translator development team.
             
@@ -113,7 +112,7 @@ content:
         link: acronis.com
         # link_text: boringcompany.com
         sub_title: Software Developer in Test
-        caption: December 2017 - November 2019 (2 years)
+        caption: December 2017 - November 2019<br>(2 years)
         description: | # this will include new lines to allow paragraphs
             The first year I worked in the Automation QA team, then I developed automation within the development team, 1 person in assistants.
             
@@ -170,31 +169,38 @@ content:
             - configuring stands with product for demonstrations.
 
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
-      - layout: left
-        title: National Research University of Electronic Technology (MIET), Moscow
         link:  eng.miet.ru
         caption: 2010 - 2015
         description: |
+            *National Research University of Electronic Technology (MIET), Moscow*
             Specialist degree, Departments of Micro-Devices and Technical Cybernetics, Applied Maths
 
   - title: Key skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Languages:** Russian — Native, English — B1-B2
-                 
-      **Skills keywords:** *Python* *Git* *Jenkins* *VMware* Hyper-V SQL Docker REST API Linux KVM Testing Framework SVN Gitlab Jira CI\CD Groovy Bash Task decomposition Process management Team management Task setting Mentoring
+      **Program languages:** Python, Groovy, Bash
+      **Version control:** Git, SVN
+      **Virtualization:** Docker, KVM, VMware, HyperV
+      **Operation systems:** Linux, Windows
+      **CI\CD:** Jenkins, Gitlab
+      **Monitoring systems:** Grafana, ELK
+      **Task management:** Jira, Bugzilla
+      
+      **Management skills:** task decomposition, process management, team management, task setting, mentoring
+      
+      **Speaking languages:** Russian — Native, English — B1-B2
       
 
   - title: Additional information
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Professional qualities:** strong analytical skills; work in team; work in multitasking mode and plan working time; readiness to learn new things; non-conflict; without bad habits. 
+      **Professional qualities:** strong analytical skills; work in a team; work in multitasking mode and plan working time; readiness to learn new things; non-conflict; without bad habits. 
       
       **Hobby:** traveling, football, spend time with my family.
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
