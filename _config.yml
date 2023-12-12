@@ -77,9 +77,6 @@ content:
             
             Main stack of technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Gitlab
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: HUAWEI
         link: huawei.com
