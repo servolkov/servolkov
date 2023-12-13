@@ -76,7 +76,7 @@ content:
             - several stable versions of the application have been successfully released.
             
             Main stack of technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Gitlab
-    - title:
+  - title:
     layout: list
     content:
       - layout: left
