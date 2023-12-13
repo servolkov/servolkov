@@ -53,7 +53,7 @@ content:
         link: huawei.com
         # link_text: boringcompany.com
         sub_title: Lead Software Engineer
-        caption: April 2020 - Present
+        caption: April 2020 - Present<br>(3 years 9 months)
         description: | # this will include new lines to allow paragraphs
             Work as an engineer with leadership responsibilities in the Infrastructure and Quality Assurance team. Application – binary translator.
           
@@ -76,10 +76,9 @@ content:
             - several stable versions of the application have been successfully released.
             
             Main stack of technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Gitlab
-  - title:
-    layout: list
-    content:
+     
       - layout: left
+        border: weak
         title: HUAWEI
         link: huawei.com
         sub_title: Senior Software Engineer
@@ -101,11 +100,9 @@ content:
             - built infrastructure of launches using Docker.
             
             After current results I had been appointed Team Lead of the Infrastructure and Quality Assurance team.
-        
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+
       - layout: left
+        border: weak
         title: Acronis
         link: acronis.com
         # link_text: boringcompany.com
@@ -122,10 +119,8 @@ content:
             logic of cases, poor logging and so on) to optimize of analysis process and test run time
             - development and improvement of the test launch infrastructure (Jenkins, Docker, Vmware, HyperV)
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
+        border: weak
         title: Agency of Economic Information PRIME
         link: 1prime.ru
         sub_title: Senior QA Engineer
@@ -141,15 +136,11 @@ content:
                  - Win-application (client for work and display economic information).
             - bugs management, preparing test documentation (test cases, test plans)
         
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Insentry
         link:  insentry.io/en
-        # link_text: boringcompany.com
         sub_title: QA Engineer
-        caption: July 2015 - September 2016 (1 year 3 months)
+        caption: July 2015 - September 2016<br>(1 year 3 months)
         description: | # this will include new lines to allow paragraphs
             Application – video surveillance with computer vision.
             Job responsibilities:
@@ -185,9 +176,7 @@ content:
       **CI\CD:** Jenkins, Gitlab<br>
       **Monitoring systems:** Grafana, ELK<br>
       **Task management:** Jira, Bugzilla
-      
       **Management skills:** task decomposition, process management, team management, task setting, mentoring
-      
       **Speaking languages:** Russian — Native, English — B1-B2
       
 
