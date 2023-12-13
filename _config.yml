@@ -49,6 +49,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: HUAWEI
         link: huawei.com
         # link_text: boringcompany.com
@@ -175,8 +176,8 @@ content:
       **Operation systems:** Linux, Windows<br>
       **CI\CD:** Jenkins, Gitlab<br>
       **Monitoring systems:** Grafana, ELK<br>
-      **Task management:** Jira, Bugzilla
-      **Management skills:** task decomposition, process management, team management, task setting, mentoring
+      **Task management:** Jira, Bugzilla<br>
+      **Management skills:** task decomposition, process management, team management, task setting, mentoring<br>
       **Speaking languages:** Russian — Native, English — B1-B2
       
 
