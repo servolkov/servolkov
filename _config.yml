@@ -54,13 +54,13 @@ content:
         link: huawei.com
         # link_text: boringcompany.com
         sub_title: Lead Software Engineer
-        caption: April 2020 - Present<br>(4 years 1 month)
+        caption: April 2020 - Present<br>(4 years 4 month)
         description: | # this will include new lines to allow paragraphs
             Work as an engineer with leadership responsibilities in the Infrastructure and Quality Assurance team. Application – binary translator.
           
             Job responsibilities:
             - team management (5 people in the pick + students on internship)
-             - support and improvement of testing system (functional testing, performance
+            - support and improvement of testing system (functional testing, performance
             testing, test generator, pre- and post-commit testing), CI\CD processes
             - quality assurance of the application, release management
             - support and improvement infrastructure of development and testing.
@@ -76,7 +76,7 @@ content:
             - configured logging and monitoring systems (Logstash, Grafana)
             - several stable versions of the application have been successfully released.
             
-            Main stack of technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Gitlab
+            Main stack of technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Ansible, Gitlab
      
       - layout: left
         border: weak
@@ -175,6 +175,7 @@ content:
       **Virtualization:** Docker, KVM, VMware, HyperV<br>
       **Operation systems:** Linux, Windows<br>
       **CI\CD:** Jenkins, Gitlab<br>
+      **Configuration management:** Ansible<br>
       **Monitoring systems:** Grafana, ELK<br>
       **Task management:** Jira, Bugzilla<br>
       **Management skills:** task decomposition, process management, team management, task setting, mentoring<br>
