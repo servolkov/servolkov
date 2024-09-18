@@ -38,7 +38,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a 31 year old Software Engineer with competence in Quality Assurance, automation, CI/CD, and some DevOps practices.My diverse background spans multiple project types, including web systems, desktop applications, system software (such as binary translators), and exposure to the cryptocurrency field.
+  I'm a 31 year old Software Engineer with competence in Quality Assurance, automation, CI/CD, and some DevOps practices. My diverse background spans multiple project types, including web systems, desktop applications, system software (such as binary translators), and exposure to the cryptocurrency field.
 
   In addition to my technical expertise, I have several years of experience as a Team Leader, where I focused on guiding teams towards automation-driven solutions. I strongly advocate for reducing manual processes wherever possible, while recognizing the value of manual intervention when necessary.
   
