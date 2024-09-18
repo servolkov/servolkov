@@ -38,11 +38,11 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a 31 year old Software Engineer with competence in Quality Assurance, automation, CI/CD, and some DevOps practices. My diverse experience spans various project types, including web systems, desktop applications, system software such as binary translators and some exposure to the field of crypto.
+  I'm a 31 year old Software Engineer with competence in Quality Assurance, automation, CI/CD, and some DevOps practices.My diverse background spans multiple project types, including web systems, desktop applications, system software (such as binary translators), and exposure to the cryptocurrency field.
 
-  In addition to my technical experience, I've played the role of Team Leader for a few years. I'm all about automation. I'm that person who believes in minimizing manual work. However, I also recognize the importance of manual tasks when necessary.
+  In addition to my technical expertise, I have several years of experience as a Team Leader, where I focused on guiding teams towards automation-driven solutions. I strongly advocate for reducing manual processes wherever possible, while recognizing the value of manual intervention when necessary.
   
-  I'm always ready to contribute to the success of innovative projects.
+  I am passionate about contributing to the success of innovative projects and continuously seek opportunities to drive efficiency and quality.
 
 content:
   - title: Experience # Title for the section
@@ -54,29 +54,26 @@ content:
         link: huawei.com
         # link_text: boringcompany.com
         sub_title: Lead Software Engineer
-        caption: April 2020 - Present<br>(4 years 4 month)
+        caption: April 2020 - Present<br>(4 years 5 month)
         description: | # this will include new lines to allow paragraphs
-            Work as an engineer with leadership responsibilities in the Infrastructure and Quality Assurance team. Application – binary translator.
-          
-            Job responsibilities:
-            - team management (5 people in the pick + students on internship)
-            - support and improvement of testing system (functional testing, performance
-            testing, test generator, pre- and post-commit testing), CI\CD processes
-            - quality assurance of the application, release management
-            - support and improvement infrastructure of development and testing.
+            I work as a Lead Engineer with leadership responsibilities in the Infrastructure and Quality Assurance team, focusing on a binary translator application.
             
-            Achievements:
-            - daily runs of regression tests with detailed report to all responsible team members
-            - the number of regression tests has been increased several times
-            - refactored old testing tools (python3) to user-friendly format (stable modules have
-            not been changed, only adapted to the new style)
-            - implemented a load balancing mechanism for agents in Jenkins
-            - deployed and configured KVM on local hosts for more efficient allocation of team
-            resources
-            - configured logging and monitoring systems (Logstash, Grafana)
-            - several stable versions of the application have been successfully released.
+            Key Responsibilities:
+            - Manage a team of 5 engineers at peak, plus interns.
+            - Support and enhance testing systems (functional testing, performance testing, test generator, pre- and post-commit testing) and CI/CD processes.
+            - Ensure application quality assurance and handle release management.
+            - Maintain and improve the development and testing infrastructure.
             
-            Main stack of technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Ansible, Gitlab
+            Key Achievements:
+            - Implement daily regression test runs with detailed reporting to team members.
+            - Significantly increased the number of regression tests.
+            - Refactored legacy testing tools (Python3), adapting them to a more user-friendly format without altering stable modules.
+            - Developed and implemented a load-balancing mechanism for Jenkins agents.
+            - Deployed and configured KVM on local hosts for more efficient resource allocation.
+            - Configured logging and monitoring systems (Logstash, Grafana).
+            - Successfully released multiple stable versions of the application.
+            
+            Technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Ansible, GitLab.
      
       - layout: left
         border: weak
@@ -85,22 +82,20 @@ content:
         sub_title: Senior Software Engineer
         caption: November 2019 - April 2020<br>(6 months)
         description: | # this will include new lines to allow paragraphs
-            Work in the binary translator development team.
+            Worked in the binary translator development team.
             
-            Job responsibilities:
-            - development of a testing model and testing strategy
-            - increasing a number of regression tests
-            - participation in creation of the CI\CD system
-            - support and improvement of testing tools
+            Key Responsibilities:
+            - Develop a testing model and define the testing strategy.
+            - Increase a number of regression tests.
+            - Contribute to the creation of the CI/CD system.
+            - Support and enhance testing tools.
             
-            Achievements:
-            - standardized approach to functional testing, participation in the process of old
-            scripts rewriting to the new standard (Bash, Python3)
-            - deployed and configured СI from scratch (Jenkins), used conception of
-            Infrastructure as code (Jenkins pipelines, Jenkins shared lib)
-            - built infrastructure of launches using Docker.
+            Key Achievements:
+            - Standardized functional testing approaches and led the process of rewriting old scripts to a new standard (Bash, Python3).
+            - Deployed and configured CI system from scratch using Jenkins, implementing Infrastructure as Code (Jenkins pipelines, Jenkins shared libraries).
+            - Built a Docker-based infrastructure for test launches.
             
-            After current results I had been appointed Team Lead of the Infrastructure and Quality Assurance team.
+            After these achievements, I was appointed Team Lead of the Infrastructure and Quality Assurance team.
 
       - layout: left
         border: weak
@@ -110,32 +105,30 @@ content:
         sub_title: Software Developer in Test
         caption: December 2017 - November 2019<br>(2 years)
         description: | # this will include new lines to allow paragraphs
-            The first year I worked in the Automation QA team, then I developed automation within the development team, 1 person as an assistant.
+            In the first year, I worked as part of the Automation QA team, and later transitioned to developing automation within the development team, with one assistant.
             
             Job responsibilities:
-            - development of testing framework (Python3)
-            - design and write new autotests, support old autotests (test frameworks: Pytest,
-            Unittest; type of tests: backend REST, Network, Installation, Upgrade)
-            - analysis test runs, search for weaknesses in the autotests architecture (difficult
-            logic of cases, poor logging and so on) to optimize of analysis process and test run time
-            - development and improvement of the test launch infrastructure (Jenkins, Docker, Vmware, HyperV)
+            - Develop a testing framework using Python3.
+            - Design and implement new automated tests, as well as maintain and support existing tests (Test frameworks: Pytest, Unittest; Test types: backend REST, network, installation, upgrade).
+            - Analyze test runs and identifiy weaknesses in the test architecture (e.g., complex test logic, poor logging) to optimize the analysis process and reduce test run times.
+            - Develop and enhance test execution infrastructure using Jenkins, Docker, VMware, and HyperV.
 
       - layout: left
         border: weak
         title: Agency of Economic Information PRIME
         link: 1prime.ru
         sub_title: Senior QA Engineer
-        caption: September 2016 - January 2018<br>(2 years 5 months)
+        caption: September 2016 - January 2018<br>(1 years 5 months)
         description: | # this will include new lines to allow paragraphs
-            Work as a QA Engineer with different teams inside same department. Each team had it’s own specializations, so testing was performed for different services in multitasking mode. Part-time work as a contractor since December 2017.
+            As a Senior QA Engineer, I worked with various teams within the department, each focusing on different services, requiring multitasking and adaptability.
             
-            Job responsibilities:
-            - functional testing of the following services:
+            Key Responsibilities:
+            - Functional testing across various services, including:
                  - ETL-procedures (MS SQL, Pentaho)
-                 - web-services (REST, SOAP, POSTMAN)
-                 - new features of website (Frontend)
-                 - Win-application (client for work and display economic information).
-            - bugs management, preparing test documentation (test cases, test plans)
+                 - Web services (REST, SOAP, POSTMAN)
+                 - Website features (Frontend)
+                 - Win-application (Client for economic information display).
+            - Bugs management, preparation of test cases and test plans.
         
       - layout: left
         title: Insentry
@@ -143,18 +136,18 @@ content:
         sub_title: QA Engineer
         caption: July 2015 - September 2016<br>(1 year 3 months)
         description: | # this will include new lines to allow paragraphs
-            Application – video surveillance with computer vision.
-            Job responsibilities:
-            - functional testing of the following components:
-                - client (Win-application)
-                - server (Win-service with Web-UI)
-                - archive (Win-service with Web-UI)
-                - analytics (computer vision application with distributed load)
-                - subsystem of voice communication (IP-telephony module integrated into the
-            client)
-            - integration testing of the current components
-            - writing test plans and test cases
-            - configuring stands with product for demonstrations.
+            The project involved a video surveillance system with integrated computer vision.
+            
+            Key Responsibilities:
+            - Functional testing of the following components:
+                - Client (Win-application)
+                - Server (Win-service with Web-UI)
+                - Archive (Win-service with Web-UI)
+                - Analytics (Computer vision application with distributed load)
+                - Voice communication subsystem (IP-telephony module integrated into the client)
+            - Execute integration testing of the current components.
+            - Create detailed test plans and test cases.
+            - Configure product environments and demo stands for demonstrations.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -174,20 +167,21 @@ content:
       **Version control:** Git, SVN<br>
       **Virtualization:** Docker, KVM, VMware, HyperV<br>
       **Operation systems:** Linux, Windows<br>
-      **CI\CD:** Jenkins, Gitlab<br>
+      **CI\CD tools:** Jenkins, Gitlab<br>
       **Configuration management:** Ansible<br>
-      **Monitoring systems:** Grafana, ELK<br>
+      **Monitoring systems:** Grafana, ELK (Elasticsearch, Logstash, Kibana)<br>
       **Task management:** Jira, Bugzilla<br>
-      **Management skills:** task decomposition, process management, team management, task setting, mentoring<br>
-      **Speaking languages:** Russian — Native, English — B1-B2
+      **Management skills:** task decomposition, process management, team management, task delegation, mentoring<br> 
+      **Speaking languages:** Russian — Native, English — B2
       
 
   - title: Additional information
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Professional qualities:** strong analytical skills; work in a team; work in multitasking mode and plan working time; readiness to learn new things; non-conflict; without bad habits. 
+      **Soft skills:** strong analytical and problem-solving abilities; effective team collaboration and communication; ability to multitask and manage work priorities; 
+                       adaptability and a commitment to continuous learning; conflict resolution and maintaining a positive work environment
       
-      **Hobby:** traveling, football, spend time with my family.
+      **Personal interests::** traveling, football, spending time with family.
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
