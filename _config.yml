@@ -107,7 +107,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             In the first year, I worked as part of the Automation QA team, and later transitioned to developing automation within the development team, with one assistant.
             
-            Job responsibilities:
+            Key Responsibilities:
             - Develop a testing framework using Python3.
             - Design and implement new automated tests, as well as maintain and support existing tests (Test frameworks: Pytest, Unittest; Test types: backend REST, network, installation, upgrade).
             - Analyze test runs and identifiy weaknesses in the test architecture (e.g., complex test logic, poor logging) to optimize the analysis process and reduce test run times.
@@ -179,7 +179,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Soft skills:** strong analytical and problem-solving abilities; effective team collaboration and communication; ability to multitask and manage work priorities; 
-                       adaptability and a commitment to continuous learning; conflict resolution and maintaining a positive work environment
+                       adaptability and a commitment to continuous learning; conflict resolution and maintaining a positive work environment.
       
       **Personal interests::** traveling, football, spending time with family.
 # Footer
