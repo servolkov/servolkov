@@ -56,7 +56,7 @@ content:
         sub_title: Lead Software Engineer
         caption: April 2020 - Present<br>(4 years 5 month)
         description: | # this will include new lines to allow paragraphs
-            I work as a Lead Engineer with leadership responsibilities in the Infrastructure and Quality Assurance team, focusing on a binary translator application.
+            I work as a Software Engineer with leadership responsibilities in the Infrastructure and Quality Assurance team, focusing on a binary translator application.
             
             Key Responsibilities:
             - Manage a team of 5 engineers at peak, plus interns.
@@ -181,7 +181,7 @@ content:
       **Soft skills:** strong analytical and problem-solving abilities; effective team collaboration and communication; ability to multitask and manage work priorities; 
                        adaptability and a commitment to continuous learning; conflict resolution and maintaining a positive work environment.
       
-      **Personal interests::** traveling, football, spending time with family.
+      **Personal interests:** traveling, football, spending time with family.
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
