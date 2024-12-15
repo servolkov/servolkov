@@ -54,22 +54,22 @@ content:
         link: huawei.com
         # link_text: boringcompany.com
         sub_title: Lead Software Engineer
-        caption: April 2020 - Present<br>(4 years 8 month)
+        caption: April 2020 - Present<br>(4 years 9 month)
         description: | # this will include new lines to allow paragraphs
-            I work as a Software Engineer with leadership responsibilities in the Infrastructure and Quality Assurance team, focusing on a binary translator application.
+            Promoted to lead the team responsible for infrastructure improvements and application quality assurance, with a focus on the binary translator application.
             
             Key Responsibilities:
-            - Manage a team of 5 engineers at peak, plus interns.
-            - Support and enhance testing systems (functional testing, performance testing, test generator, pre- and post-commit testing) and CI/CD processes.
+            - Lead a team (up to 5 engineers), along with mentoring interns.
+            - Design, enhance, and maintain systems for functional, performance, and pre-/post-commit testing.
+            - Develop and manage CI/CD pipelines, ensuring robust testing and streamlined deployments.
             - Ensure application quality assurance and handle release management.
             - Maintain and improve the development and testing infrastructure.
             
             Key Achievements:
-            - Implement daily regression test runs with detailed reporting to team members.
-            - Significantly increased the number of regression tests.
-            - Refactored legacy testing tools (Python3), adapting them to a more user-friendly format without altering stable modules.
-            - Developed and implemented a load-balancing mechanism for Jenkins agents.
-            - Deployed and configured KVM on local hosts for more efficient resource allocation.
+            - Implemented daily regression (functional, perf, tests generation) test runs with detailed reporting for team insights, 
+            - Significantly increased regression test coverage, including the number of performance benchmarks.
+            - Set up virtualization for bare-metal hosts using KVM-QEMU, optimizing resource allocation and enhancing infrastructure scalability.
+            - Introduced a load-balancing mechanism for Jenkins agents, improving resource utilization.
             - Configured logging and monitoring systems (Logstash, Grafana).
             - Successfully released multiple stable versions of the application.
             
@@ -82,20 +82,17 @@ content:
         sub_title: Senior Software Engineer
         caption: November 2019 - April 2020<br>(6 months)
         description: | # this will include new lines to allow paragraphs
-            Worked in the binary translator development team.
+            Focused on developing robust testing models and enhancing the CI/CD ecosystem.
             
             Key Responsibilities:
             - Develop a testing model and define the testing strategy.
-            - Increase a number of regression tests.
-            - Contribute to the creation of the CI/CD system.
-            - Support and enhance testing tools.
+            - Increase regression test coverage and automated regression workflows.
+            - Contribute to the creation of CI/CD pipelines for efficient testing and deployments.
             
             Key Achievements:
-            - Standardized functional testing approaches and led the process of rewriting old scripts to a new standard (Bash, Python3).
-            - Deployed and configured CI system from scratch using Jenkins, implementing Infrastructure as Code (Jenkins pipelines, Jenkins shared libraries).
-            - Built a Docker-based infrastructure for test launches.
-            
-            After these achievements, I was appointed Team Lead of the Infrastructure and Quality Assurance team.
+            - Standardized functional testing approaches and led the process of rewriting old scripts to a new standard (Python3).
+            - Developed a CI system from scratch using Jenkins, incorporating Infrastructure as Code principles (pipelines, shared libraries).
+            - Built a Docker-based infrastructure to support scalable build and test launches.
 
       - layout: left
         border: weak
@@ -109,8 +106,8 @@ content:
             
             Key Responsibilities:
             - Develop a testing framework using Python3.
-            - Design and implement new automated tests, as well as maintain and support existing tests (Test frameworks: Pytest, Unittest; Test types: backend REST, network, installation, upgrade).
-            - Analyze test runs and identifiy weaknesses in the test architecture (e.g., complex test logic, poor logging) to optimize the analysis process and reduce test run times.
+            - Design and implement new automated tests, as well as maintain and support existing tests (Test frameworks: Pytest, Unittest; Test types: backend RESTAPI, network, installation, upgrade).
+            - Analyze test runs and identifiy weaknesses in the test architecture (e.g., complex test logic, poor logging) to optimize the analysis process and reduce test run time.
             - Develop and enhance test execution infrastructure using Jenkins, Docker, VMware, and HyperV.
 
       - layout: left
