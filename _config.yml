@@ -38,7 +38,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a Software Engineer specializing in Quality Assurance, automation, CI/CD, and DevOps practices. My diverse background spans multiple project types, including web systems, desktop applications, system software (such as binary translators), and exposure to the cryptocurrency field.
+  I'm a Software Engineer specializing in Quality Assurance, automation, CI/CD, and DevOps practices. My diverse background spans multiple project types, including web systems, desktop applications, system software (such as binary translators), and exposure to the cryptocurrency field (short part-time experience).
 
   In addition to my technical expertise, I have several years of experience as a Team Leader, where I focused on guiding teams towards automation-driven solutions. I strongly advocate for reducing manual processes wherever possible, while recognizing the value of manual intervention when necessary.
   
@@ -66,14 +66,14 @@ content:
             - Maintain and improve the development and testing infrastructure.
             
             Key Achievements:
-            - Implemented daily regression (functional, perf, tests generation) test runs with detailed reporting for team insights, 
+            - Implemented daily regression test runs with detailed reporting for team insights.
             - Significantly increased regression test coverage, including the number of performance benchmarks.
             - Set up virtualization for bare-metal hosts using KVM-QEMU, optimizing resource allocation and enhancing infrastructure scalability.
             - Introduced a load-balancing mechanism for Jenkins agents, improving resource utilization.
             - Configured logging and monitoring systems (Logstash, Grafana).
             - Successfully released multiple stable versions of the application.
             
-            Technologies: Python3, Bash, Linux, Jenkins, Docker, KVM, Ansible, GitLab.
+            Technologies: Python3, Bash, Linux, Jenkins, Docker, KVM-QEMU, Ansible, GitLab, ELK.
      
       - layout: left
         border: weak
