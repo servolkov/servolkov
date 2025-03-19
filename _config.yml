@@ -55,7 +55,7 @@ content:
         link: huawei.com
         # link_text: boringcompany.com
         sub_title: Lead Software Engineer
-        caption: April 2020 - Present<br>(4 years 11 month)
+        caption: April 2020 - Present<br>
         description: | # this will include new lines to allow paragraphs
             Promoted to lead the team responsible for infrastructure improvements and application quality assurance, with a focus on the binary translator application.
             
@@ -81,7 +81,7 @@ content:
         title: HUAWEI
         link: huawei.com
         sub_title: Senior Software Engineer
-        caption: November 2019 - April 2020<br>(6 months)
+        caption: November 2019 - April 2020<br>
         description: | # this will include new lines to allow paragraphs
             Focused on developing robust testing models and enhancing the CI/CD ecosystem.
             
@@ -101,7 +101,7 @@ content:
         link: acronis.com
         # link_text: boringcompany.com
         sub_title: Software Developer in Test
-        caption: December 2017 - November 2019<br>(2 years)
+        caption: December 2017 - November 2019<br>
         description: | # this will include new lines to allow paragraphs
             In the first year, I worked as part of the Automation QA team, and later transitioned to developing automation within the development team, with one assistant.
             
@@ -132,7 +132,7 @@ content:
         title: Insentry
         link:  insentry.io/en
         sub_title: QA Engineer
-        caption: July 2015 - September 2016<br>(1 year 3 months)
+        caption: July 2015 - September 2016<br>
         description: | # this will include new lines to allow paragraphs
             The project involved a video surveillance system with integrated computer vision.
             
